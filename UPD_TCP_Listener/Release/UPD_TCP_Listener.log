@@ -1,0 +1,11 @@
+﻿  ProtocolsGenerics.cpp
+  TCP.cpp
+  UDP.cpp
+  UPD_TCP_Listener.cpp
+c:\users\jumea\onedrive\documents\visual studio 2017\projects\upd_tcp_listener\upd_tcp_listener\upd_tcp_listener.cpp(14): warning C4101: 'sendResult': unreferenced local variable
+c:\users\jumea\onedrive\documents\visual studio 2017\projects\upd_tcp_listener\upd_tcp_listener\upd_tcp_listener.cpp(15): warning C4101: 'receiveBuffer': unreferenced local variable
+c:\users\jumea\onedrive\documents\visual studio 2017\projects\upd_tcp_listener\upd_tcp_listener\upd_tcp_listener.cpp(38): warning C4101: 'e': unreferenced local variable
+  Generating code
+  All 272 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UPD_TCP_Listener.vcxproj -> C:\Users\jumea\OneDrive\Documents\Visual Studio 2017\Projects\UPD_TCP_Listener\Release\UPD_TCP_Listener.exe
